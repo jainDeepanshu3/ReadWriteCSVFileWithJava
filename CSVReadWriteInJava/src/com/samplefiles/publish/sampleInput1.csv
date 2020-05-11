@@ -1,0 +1,13 @@
+city,counrty,gender,currency,amount
+Hyderabad,IND,M,INR,268560
+New York,USA,F,USD,64971
+Hong kong,HONG KONG,M,HKD,256950
+Bangalore,IND,F,INR,159180
+Bangalore,IND,M,INR,222720
+Chennai,IND,F,INR,172164
+Boston,USA,M,USD,64070
+Hong kong,HONG KONG,F,HKD,181953
+Singapore,SINGAPORE,M,SGP,76860
+New Delhi,,M,INR,241045
+New York,USA,M,USD,75629
+Singapore,SINGAPORE,F,SGP,70343

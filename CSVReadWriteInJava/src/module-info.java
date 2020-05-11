@@ -1,0 +1,3 @@
+module cSVReadWrite {
+	requires junit;
+}
